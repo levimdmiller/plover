@@ -29,5 +29,20 @@
 "KWR-BLG": "{#command(y)}",
 "STKPW-BLG": "{#command(z)}",
 "R-RBLG": "{#command(enter)}",
-"SP-BLG": "{#command(space)}"
+"SP-BLG": "{#command(space)}",
+"4-B8G": "{#command(1)}",
+"3-B8G": "{#command(2)}",
+"34-B8G": "{#command(3)}",
+"2-B8G": "{#command(4)}",
+"24-B8G": "{#command(5)}",
+"23-B8G": "{#command(6)}",
+"234-B8G": "{#command(7)}",
+"1-B8G": "{#command(8)}",
+"14-B8G": "{#command(9)}",
+"13-B8G": "{#command(10)}",
+"134-B8G": "{#command(11)}",
+"12-B8G": "{#command(12)}",
+"124-B8G": "{#command(13)}",
+"123-B8G": "{#command(14)}",
+"1234-B8G": "{#command(15)}"
 }

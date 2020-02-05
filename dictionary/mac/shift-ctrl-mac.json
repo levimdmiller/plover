@@ -25,5 +25,20 @@
 "KP*BLGS": "{#command(shift(x))}",
 "KWR*BLGS": "{#command(shift(y))}",
 "STKPW*BLGS": "{#command(shift(z))}",
-"R*RBLGS": "{#command(shift(enter))}"
+"R*RBLGS": "{#command(shift(enter))}",
+"4*B8GS": "{#control(shift(1))}",
+"3*B8GS": "{#control(shift(2))}",
+"34*B8GS": "{#control(shift(3))}",
+"2*B8GS": "{#control(shift(4))}",
+"24*B8GS": "{#control(shift(5))}",
+"23*B8GS": "{#control(shift(6))}",
+"234*B8GS": "{#control(shift(7))}",
+"1*B8GS": "{#control(shift(8))}",
+"14*B8GS": "{#control(shift(9))}",
+"13*B8GS": "{#control(shift(10))}",
+"134*B8GS": "{#control(shift(11))}",
+"12*B8GS": "{#control(shift(12))}",
+"124*B8GS": "{#control(shift(13))}",
+"123*B8GS": "{#control(shift(14))}",
+"1234*B8GS": "{#control(shift(15))}"
 }

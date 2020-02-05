@@ -29,5 +29,20 @@
 "KP*BLG": "{#control(x)}",
 "KWR*BLG": "{#control(y)}",
 "STKPW*BLG": "{#control(z)}",
-"R*RBLG": "{#control(enter)}"
+"R*RBLG": "{#control(enter)}",
+"4*B8G": "{#control(1)}",
+"3*B8G": "{#control(2)}",
+"34*B8G": "{#control(3)}",
+"2*B8G": "{#control(4)}",
+"24*B8G": "{#control(5)}",
+"23*B8G": "{#control(6)}",
+"234*B8G": "{#control(7)}",
+"1*B8G": "{#control(8)}",
+"14*B8G": "{#control(9)}",
+"13*B8G": "{#control(10)}",
+"134*B8G": "{#control(11)}",
+"12*B8G": "{#control(12)}",
+"124*B8G": "{#control(13)}",
+"123*B8G": "{#control(14)}",
+"1234*B8G": "{#control(15)}"
 }
