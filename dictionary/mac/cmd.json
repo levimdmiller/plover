@@ -28,5 +28,6 @@
 "KP-BLG": "{#command(x)}",
 "KWR-BLG": "{#command(y)}",
 "STKPW-BLG": "{#command(z)}",
-"R-RBLG": "{#command(enter)}"
+"R-RBLG": "{#command(enter)}",
+"SP-BLG": "{#command(space)}"
 }

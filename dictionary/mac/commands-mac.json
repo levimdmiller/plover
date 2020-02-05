@@ -1,0 +1,5 @@
+{
+"TPWA": "{#alt(tab)}",
+"STPWA": "{#alt(shift(tab))}",
+"#*": "{#command(z)}"
+}
