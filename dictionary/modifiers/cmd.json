@@ -44,5 +44,9 @@
 "TP-BLG": "{#command(f)}",
 "TPH-BLG": "{#command(n)}",
 "UBLG": "{#command(u)}",
-"W-BLG": "{#command(w)}"
+"W-BLG": "{#command(w)}",
+"KABLG": "{#command(left)}",
+"RABLG": "{#command(right)}",
+"PABLG": "{#command(up)}",
+"WABLG": "{#command(down)}"
 }

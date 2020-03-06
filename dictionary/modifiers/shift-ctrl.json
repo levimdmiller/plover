@@ -40,5 +40,9 @@
 "12-B8GS": "{#control(shift(12))}",
 "124-B8GS": "{#control(shift(13))}",
 "123-B8GS": "{#control(shift(14))}",
-"1234-B8GS": "{#control(shift(15))}"
+"1234-B8GS": "{#control(shift(15))}",
+"KABLGS": "{#control(shift(left))}",
+"RABLGS": "{#control(shift(right))}",
+"PABLGS": "{#control(shift(up))}",
+"WABLGS": "{#control(shift(down))}"
 }

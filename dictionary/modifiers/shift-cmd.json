@@ -40,5 +40,9 @@
 "TP-BLGS": "{#command(shift(f))}",
 "TPH-BLGS": "{#command(shift(n))}",
 "UBLGS": "{#command(shift(u))}",
-"W-BLGS": "{#command(shift(w))}"
+"W-BLGS": "{#command(shift(w))}",
+"KABLGS": "{#command(shift(left))}",
+"RABLGS": "{#command(shift(right))}",
+"PABLGS": "{#command(shift(up))}",
+"WABLGS": "{#command(shift(down))}"
 }

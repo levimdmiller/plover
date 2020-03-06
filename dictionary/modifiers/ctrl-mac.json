@@ -45,5 +45,9 @@
 "TKPW*BLG": "{#control(g)}",
 "TP*BLG": "{#control(f)}",
 "TPH*BLG": "{#control(n)}",
-"W*BLG": "{#control(w)}"
+"W*BLG": "{#control(w)}",
+"KA*BLG": "{#control(left)}",
+"RA*BLG": "{#control(right)}",
+"PA*BLG": "{#control(up)}",
+"WA*BLG": "{#control(down)}"
 }

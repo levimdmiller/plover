@@ -40,5 +40,9 @@
 "TKPW*BLGS": "{#control(shift(g))}",
 "TP*BLGS": "{#control(shift(f))}",
 "TPH*BLGS": "{#control(shift(n))}",
-"W*BLGS": "{#control(shift(w))}"
+"W*BLGS": "{#control(shift(w))}",
+"KA*BLGS": "{#control(shift(left))}",
+"RA*BLGS": "{#control(shift(right))}",
+"PA*BLGS": "{#control(shift(up))}",
+"WA*BLGS": "{#control(shift(down))}"
 }

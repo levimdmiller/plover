@@ -43,5 +43,9 @@
 "12-B8G": "{#control(12)}",
 "124-B8G": "{#control(13)}",
 "123-B8G": "{#control(14)}",
-"1234-B8G": "{#control(15)}"
+"1234-B8G": "{#control(15)}",
+"KABLG": "{#control(left)}",
+"RABLG": "{#control(right)}",
+"PABLG": "{#control(up)}",
+"WABLG": "{#control(down)}"
 }

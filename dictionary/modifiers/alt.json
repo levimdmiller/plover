@@ -41,5 +41,9 @@
 "TP-BLGT": "{#alt(f)}",
 "TPH-BLGT": "{#alt(n)}",
 "UBLGT": "{#alt(u)}",
-"W-BLGT": "{#alt(w)}"
+"W-BLGT": "{#alt(w)}",
+"KABLGT": "{#alt(left)}",
+"RABLGT": "{#alt(right)}",
+"PABLGT": "{#alt(up)}",
+"WABLGT": "{#alt(down)}"
 }
