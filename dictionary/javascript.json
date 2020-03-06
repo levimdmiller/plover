@@ -1,0 +1,7 @@
+{
+"HRA*PLD": "() =>",
+"HRA*PLDZ": "() =>{#left left left left}",
+"KW-PBG": "=>",
+"TPHRA*PLD": "() => \\{",
+"TPHRA*PLDZ": "() => \\{{#left left left left left left}"
+}
