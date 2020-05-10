@@ -1,9 +1,16 @@
 {
-"HRA*PLD": "() =>",
-"HRA*PLDZ": "() =>{#left left left left}{^^}",
+"HRA*PLD": "{^}() =>",
+"HRA*PLDZ": "{^}() =>{#left left left left}{^^}",
+"KHRO*G": "console.log('');{#left left left}",
 "KW-PBG": "{=^} {^>}",
-"T*EFT": "it('', () => \\{\n{#down end}{^};{#up up right}",
-"TKRAO*EUB": "describe('', () => \\{\n{#down end}{^};{#up up right right right right right right right}",
-"TPHRA*PLD": "() => \\{",
-"TPHRA*PLDZ": "() => \\{{#left left left left left left}{^^}"
+"PAO*EUP/PAO*EUP": "||",
+"SKHRAPL/KW-L": "!=",
+"SKRAO*EUB/KHRO*G": "subscribe(value => console.log(' * * * ', value));",
+"T*EFT": "{^}it('', () => \\{\n{#down end}{^};{#up up right}",
+"TKRAO*EUB": "{^}describe('', () => \\{\n{#down end}{^};{#up up right right right right right right right}",
+"TPH-GT": "ng test --browsers ChromeHeadless",
+"TPHAPB": "NaN",
+"TPHRA*EUT": "{^}$\\{\\}{#left}{^}",
+"TPHRA*PLD": "{^}() => \\{",
+"TPHRA*PLDZ": "{^}() => \\{{#left left left left left left}{^^}"
 }
