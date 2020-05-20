@@ -6,3 +6,7 @@ dictionary/local.json
 
 # Mac
 .DS_Store
+
+# Python
+__pycache__/*
+*.pyc
