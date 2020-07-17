@@ -1,5 +1,6 @@
 {
-"TPWA": "{#alt(tab)}",
+"#*": "{#command(z)}",
+"SROEUFR": "{#command(F5)}",
 "STPWA": "{#alt(shift(tab))}",
-"#*": "{#command(z)}"
+"TPWA": "{#alt(tab)}"
 }

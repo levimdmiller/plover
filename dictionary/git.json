@@ -1,5 +1,6 @@
 {
 "TKPW*EUTS": "git status {#Return}",
+"TKPWEURBT": "git push",
 "TKPWHEUT": "git commit -m \"{^}",
 "TKPWHRAOER": "git checkout -- . && git clean -fd",
 "TKPWHREUT": "git commit -m \"{^}"
