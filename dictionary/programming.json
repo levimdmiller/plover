@@ -1,0 +1,9 @@
+{
+"KH-PLD": "chmod",
+"PA*UT/A*EUP": "PATAPI-{^}",
+"PR-PL": "rpm",
+"RA*EPLD": "README",
+"TK*UP": "docker-compose up -d",
+"TKUP": "docker-compose up -d",
+"W*S": "workspace-schematic"
+}

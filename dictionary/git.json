@@ -1,8 +1,11 @@
 {
+"TKPW*EBGT": "git checkout -b",
 "TKPW*EUTS": "git status {#Return}",
 "TKPWEBGT": "git checkout",
+"TKPWEUP": "git pull",
 "TKPWEURBT": "git push",
 "TKPWHEUT": "git commit -m \"{^}",
+"TKPWHR*EUT": "git commit",
 "TKPWHRAOER": "git checkout -- . && git clean -fd",
 "TKPWHREUT": "git commit -m \"{^}"
 }
