@@ -59,11 +59,13 @@
 "SKPEUT": "exit",
 "SKPHRAEUPB": "explain",
 "SKPHRAOUD": "exclude",
+"SKPHRAOUGS": "exclusion",
 "SKPHREPBS": "excellence",
 "SKPHREPBT": "excellent",
 "SKPHRERPBL": "externally",
 "SKPHREUFLT": "explicitly",
 "SKPHREUFT": "explicit",
+"SKPHROED": "explode",
 "SKPHROEGS": "explosion",
 "SKPORT": "export",
 "SKPRA": "extra",
@@ -73,5 +75,7 @@
 "SKPREGS": "expression",
 "SKPRERPBL": "external",
 "SKPRORD": "extraordinary",
-"SPWRAOUF": "interview"
+"SPWRAOEPLD": "intermediate",
+"SPWRAOUF": "interview",
+"SPWREFPT": "intercept"
 }

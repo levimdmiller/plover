@@ -10,6 +10,7 @@
 "PW-F/AO*EFP": "{^}beforeEach(() => \\{\n{#down end}{^};{#up}",
 "SKHRAPL/KW-L": "!=",
 "SKHRAPL/KW-L/KW-L": "!==",
+"SKPHA*BGT": "nx workspace-schematic",
 "SKRAO*EUB/KHRO*G": "subscribe(value => console.log(' * * * ', value));",
 "SPAO*EUPB": "{^}spyOn({^}",
 "T*EFT": "{^}it('', () => \\{\n{#down end}{^};{#up up right}",
