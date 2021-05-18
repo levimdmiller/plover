@@ -1,6 +1,9 @@
 {
 "TKPW*EBGT": "git checkout -b",
+"TKPW*EUP": "git push",
+"TKPW*EURBT": "git push --set-upstream origin $(git branch --show-current)",
 "TKPW*EUTS": "git status {#Return}",
+"TKPWA*D": "git add .",
 "TKPWEBGT": "git checkout",
 "TKPWEUP": "git pull",
 "TKPWEURBT": "git push",

@@ -29,6 +29,7 @@
 "KWR-BLG": "{#command(y)}",
 "KWRAO": "{#command(a)}",
 "OBLG": "{#command(o)}",
+"OEUBLG": "{#command(slash)}",
 "P-BLG": "{#command(p)}",
 "PABLG": "{#command(up)}",
 "PH-BLG": "{#command(m)}",
