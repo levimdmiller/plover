@@ -1,7 +1,6 @@
 {
 "*EFPB": "env",
 "AOEURS/PW*EULD": "nx build medeo-iris && nx bundle-scss medeo-iris",
-"AOEURS/PW*EULD/TKW*EPS": "nx build medeo-iris --with-deps && nx bundle-scss medeo-iris",
 "AOEURS/START": "nx serve medeo-iris-example",
 "HRO*EURS": "npm run local-iris",
 "KH-PLD": "chmod",
@@ -27,10 +26,11 @@
 "SOEUBGT/START": "nx serve socketio-server",
 "SPHR*EU": "{^}h1. Summary",
 "STKPA*FP": "this.store.dispatch({^}",
-"STPHEFRBGS": "nx serve",
 "STR*UBGT": "struct",
 "TK*UP": "docker-compose up -d",
 "TKUP": "docker-compose up -d",
 "TKW*EPS": "--with-deps",
+"TPHA*EFGS": "psql -d idp_development -c \"SELECT id, email, concat('https://id.local.qhrtech.com/users/confirmation?confirmation_token=', confirmation_token) as confirm_url FROM users ORDER BY id DESC LIMIT 1;\"",
+"TPHUPBL": "\\n",
 "W*S": "workspace-schematic"
 }

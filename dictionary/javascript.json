@@ -2,7 +2,7 @@
 "HRA*PLD": "{^}() =>",
 "HRA*PLDZ": "{^}() =>{#left left left left}{^^}",
 "HRO/TKARB": "lodash",
-"KHRO*G": "console.log('');{#left left left}",
+"KHRO*G": "console.log(``);{#left left left}",
 "KRAO*EBGS": "createAction('');{#left left left}",
 "KW-PBG": "=>",
 "P*BGS": "{^}px",
