@@ -7,6 +7,7 @@
 "TKPWEBGT": "git checkout",
 "TKPWEUP": "git pull",
 "TKPWEURBT": "git push",
+"TKPWEUT/TKPHO*E": "git log origin/develop --since=\"2 weeks ago\" | grep -io \"[A-Za-z0-9]\\\\+-[0-9]\\\\+\" | sort | uniq | sed 's/\\(.*\\)-/https:\\/\\/jira.qhrtech.com\\/jira\\/browse\\/\\1-/'",
 "TKPWHEUT": "git commit -m \"{^}",
 "TKPWHR*EUT": "git commit",
 "TKPWHRAOER": "git checkout -- . && git clean -fd",

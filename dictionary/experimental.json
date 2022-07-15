@@ -5,11 +5,12 @@
 "KPWAEUR": "impair",
 "KPWAFL": "impactful",
 "KPWEFRT": "imperative",
+"KPWHRAOEU": "imply",
 "KPWHREPLT": "implement",
 "KPWHREUFT": "implicit",
 "KPWOBL": "impossible",
 "KPWORPBLT": "importantly",
-"KPWORPBS": "importantance",
+"KPWORPBS": "importance",
 "KPWORPBT": "important",
 "KPWORT": "import",
 "KPWOUR": "empower",
@@ -77,8 +78,10 @@
 "SKPREFD": "expressed",
 "SKPREGS": "expression",
 "SKPRERPBL": "external",
+"SKPRES": "express",
 "SKPRORD": "extraordinary",
 "SPWRAOEPLD": "intermediate",
 "SPWRAOUF": "interview",
-"SPWREFPT": "intercept"
+"SPWREFPT": "intercept",
+"TK*UB": "did you know"
 }
