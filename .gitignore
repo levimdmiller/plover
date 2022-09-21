@@ -10,3 +10,5 @@ dictionary/local.json
 # Python
 __pycache__/*
 *.pyc
+
+.idea/
