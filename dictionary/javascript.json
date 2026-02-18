@@ -7,7 +7,7 @@
 "SKHRAPL/KW-L": "!=",
 "SKHRAPL/KW-L/KW-L": "!==",
 "SKRAO*EUB/KHRO*G": "subscribe(value => console.log(' * * * ', value));",
-"SPAO*EU": "jasmine.createSpy()",
+"SPAO*EU": "jest.fn();",
 "SPAO*EUPB": "{^}jest.spyOn({^}",
 "S*/KR*S": "scss",
 "TKRAO*EUB": "{^}describe('', () => \\{\n{#down end}{^};{#up up right right right right right right right}",

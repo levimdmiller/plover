@@ -1,15 +1,16 @@
 {
-"TKPW*EBGT": "git checkout -b",
-"TKPW*EUP": "git push",
-"TKPW*EURBT": "git push --set-upstream origin $(git branch --show-current)",
-"TKPW*EUTS": "git status {#Return}",
-"TKPWA*D": "git add .",
-"TKPWEBGT": "git checkout",
-"TKPWEUP": "git pull",
-"TKPWEURBT": "git push",
-"TKPWEUT/TKPHO*E": "git log origin/develop --since=\"2 weeks ago\" | grep -io \"[A-Za-z0-9]\\\\+-[0-9]\\\\+\" | sort | uniq | sed 's/\\(.*\\)-/https:\\/\\/jira.qhrtech.com\\/jira\\/browse\\/\\1-/'",
-"TKPWHEUT": "git commit -m \"{^}",
-"TKPWHR*EUT": "git commit",
 "TKPWHRAOER": "git checkout -- . && git clean -fd",
-"TKPWHREUT": "git commit -m \"{^}"
+"TKPWHR*EUT": "git commit",
+"TKPWHREUT": "git commit -m \"{^}",
+"TKPWHEUT": "git commit -m \"{^}",
+"TKPWA*D": "git add .",
+"TKPW*EURBT": "git push --set-upstream origin $(git branch --show-current)",
+"TKPW*EUP": "git push",
+"TKPW*EUTS": "git status {#Return}",
+"TKPW*EBGT": "git checkout -b",
+"TKPWEURBT": "git push",
+"TKPWEUP": "git pull",
+"TKPWEUP/RAOEBS": "git pull --rebase",
+"TKPWEUT/TKPHO*E": "git log origin/develop --since=\"2 weeks ago\" | grep -io \"[A-Za-z0-9]\\\\+-[0-9]\\\\+\" | sort | uniq | sed 's/\\(.*\\)-/https:\\/\\/jira.qhrtech.com\\/jira\\/browse\\/\\1-/'",
+"TKPWEBGT": "git checkout"
 }
